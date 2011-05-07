@@ -1,0 +1,10 @@
+obj
+bin
+MVC Music Store - Tutorial - v3.0.pdf
+MvcMusicStore-Assets
+*.csproj.user
+*.suo
+*.mdf
+readme.txt
+*ReSharper*
+
