@@ -1,0 +1,6 @@
+Requried:
+	* ASP.NET Mvc 3
+	* Visual Studio 2010 Service Pack 1
+	* Sql Server Compact 4.0
+	* Visual Studio 2010 SP1 TOols for Sql Server Compact
+	* Web Deployment TOol 2.1
